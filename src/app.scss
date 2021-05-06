@@ -1,0 +1,30 @@
+$primary_color : lightcoral;
+
+$secondary_color : purple;
+
+$third_color : lightgreen;
+
+$fourth_color : lightgrey;
+
+$fifth_color : orange;
+
+
+h1 {
+    color: $primary_color;
+}
+
+h2 {
+    color: $secondary_color;
+}
+
+h3 {
+    color: $third_color;
+}
+
+p {
+    color: $fourth_color;
+}
+
+button {
+    color: $fifth_color;
+}
